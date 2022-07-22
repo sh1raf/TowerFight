@@ -5,5 +5,4 @@ using UnityEngine;
 public static class SceneConnector
 {
     public static Bot BotPrefab;
-    public static GameObject MapPrefab;
 }
